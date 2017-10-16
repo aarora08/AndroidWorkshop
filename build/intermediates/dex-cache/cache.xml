@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/d560a1a019a762248b9da60ee07f903b53df811e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_76984ab3717fa3fe742d3c4e0a05db7fe53b854a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/b2c9b7afc4659e023f7c856158870a304f7d8cc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_ef08a6eb43d6fcc80a5967a6f42744157c28cbb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/7dd49a5a4d7adc2ad323eeaa4473849c9f918674/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_165317db69fffb83e1a48bfd9ea1f2c28f537d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/8273f84f4a7d3d63f39ec85011c2dfd1f43dc7a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_d59f4ccdc5695b27d018becb2609d9c1b75d08a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/c9cf4ef349fd17524506a465268f3a7715e7596e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_a38fc51bc975cdb393e04a80fc79970e2136cfb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_4cf8e162a85649870285462b896d972f1e9a6746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/a434827e8db3262027543b181959136733a8c472/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_5c356503e1738008efd07bde7d54cfffed7cb5d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/f5eb16c1e7e9ed323e1936ff174a649b8debf19f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_99ef3ad1be5c4bbd67eb4c71192ffb71f85c0461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_3c783a8abcc6f99b5e1c5c08b3c4f148baf1db99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/4810362eba0b48603b242a2a6082a6a434f69336/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_f354c7438ed3352ad585d4425fc496f4bdf98818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/6a32b530d4f4c7701dcabaa463027cefa862d1b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_796d5dfb4c68c751a967f1503905ba7fc81323c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Arshit/.android/build-cache/b6dc90874ba456f6cb073f933942196aa62dd641/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Arshit/Desktop/ACM/Android-Workshop/app/build/intermediates/pre-dexed/debug/classes_924c72013048c8f90b691bc35be5265df1922d20.jar" />
+    </item>
+
+</items>
